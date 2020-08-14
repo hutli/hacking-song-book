@@ -1,0 +1,30 @@
+# Hacker sangbogen
+Origin at Bornhack 2020
+
+## Bornhacksagen
+**Vers[0]**
+Vi sidder på Bornhack i et LED telt
+De største experter i hvert vores felt
+
+
+**Omkvæd**
+_
+_
+
+Jeg koder af HT når jeg drikker bornshush
+Og det kommer igennem når jeg forcer mit push
+
+**Vers[?]**
+Mit pr blev merget og jeg er en helt
+
+
+**Vers[?]**
+Vi puller og pusher til dagen går hen
+Og i morgen der starter det hele igen
+
+
+**Vers[-1]**
+Så hvis du får lyst til at pwn'e lidt selv
+Kom blot til os helst når dag går på hæld
+Køb IDA pro license og sæt dig i gæld
+Så starter vi pwntools og håber på shell
