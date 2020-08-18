@@ -7,6 +7,10 @@ Vi sidder på Bornhack i et LED telt
 
 De største experter i hvert vores felt
 
+Terminalen er pimp't up til bravour
+
+Men når CTF starter er der intet der dur
+
 ### Omkvæd
 Jeg koder af HT når jeg drikker bornshush
 
