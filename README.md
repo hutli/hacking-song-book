@@ -34,3 +34,13 @@ Kom blot til os helst når dag går på hæld
 Køb IDA pro license og sæt dig i gæld
 
 Så starter vi pwntools og håber på shell
+
+## Tellerman
+### Verse[0]
+There was a group that 
+
+### Cores
+Soon we'll deploy the hack
+To bring us shell and root and flag
+One day when the ctf's done
+We'll take our points and go
