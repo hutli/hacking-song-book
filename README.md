@@ -37,13 +37,21 @@ Så starter vi pwntools og håber på shell
 
 ## Tellerman
 ### Verse[0]
-There was a group that 
+There there is a field within IT
+
+The name of the feild is security
+
+No sense or form or ryme they own
+
+Pwn my bully boy, pwn
 
 ### Cores
 Soon we'll deploy the hack
 
 To bring us shell and root and flag
 
-One day when the ctf's done
+One day when the CTF's done
 
 We'll take our points and go
+
+### Verse[1]
