@@ -55,3 +55,19 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[1]
+We've not been two days in bed
+
+Gone through all of the internet
+
+The challenge here we must complete
+
+We will not 'mit defeat
+
+### Cores
+Soon we'll deploy the hack
+
+To bring us shell and root and flag
+
+One day when the CTF's done
+
+We'll take our points and go
