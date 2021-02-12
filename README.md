@@ -55,7 +55,7 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[1]
-We've not been two days in bed
+We have not been two days in bed
 
 Gone through all of the internet
 
