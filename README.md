@@ -39,7 +39,7 @@ Så starter vi pwntools og håber på shell
 ### Verse[0]
 There there is a field within IT
 
-The name of the feild is security
+The name of the feild: security
 
 No sense or form or ryme they own
 
