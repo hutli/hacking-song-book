@@ -57,7 +57,7 @@ We'll take our points and go
 ### Verse[1]
 My distro's clear of any bloat
 
-My shell does shine with unicode
+The shell does shine in unicode
 
 the challenge's live for all the folk
 
