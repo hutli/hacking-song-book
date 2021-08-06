@@ -55,13 +55,16 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[1]
-My distro's clear of any bloat
+Praise linux; clear of any bloat
 
 The shell does shine in unicode
 
-the challenge's live for all the folk
+The race kicks off, I don't look smart
 
-now everything has broke
+My setup falls apart
+
+(the challenge's live for all the folk)
+(now everything has broke)
 
 ### Cores
 Soon we'll deploy the hack
