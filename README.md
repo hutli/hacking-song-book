@@ -54,14 +54,14 @@ One day when the CTF's done
 
 We'll take our points and go
 
-### Verse[1]
-We have not been two days in bed
+### Verse[2]
+My distro's clear of any bloat
 
-Gone through all the internet
+My shell does shine with unicode
 
-The challenge here we must complete
+the challenge's live for all the folk
 
-No option is defeat
+now everything has broke
 
 ### Cores
 Soon we'll deploy the hack
@@ -72,11 +72,11 @@ One day when the CTF's done
 
 We'll take our points and go
 
-### Verse[2]
-My distro's clear of any bload
+### Verse[1]
+We have not been two days in bed
 
-My shell does shine with unicode
+Gone through all the internet
 
-the challenge's live for all the folk
+The challenge here we must complete
 
-now everything has broke
+No option is defeat
