@@ -43,7 +43,7 @@ The name of the feild: security
 
 No sense or form or ryme they own
 
-Pwn my bully boy, pwn
+Pwn my bully boys, pwn
 
 ### Cores
 Soon we'll deploy the hack
@@ -57,11 +57,11 @@ We'll take our points and go
 ### Verse[1]
 We have not been two days in bed
 
-Gone through all of the internet
+Gone through all the internet
 
 The challenge here we must complete
 
-We will not 'mit defeat
+No option is defeat
 
 ### Cores
 Soon we'll deploy the hack
@@ -71,3 +71,12 @@ To bring us shell and root and flag
 One day when the CTF's done
 
 We'll take our points and go
+
+### Verse[2]
+My distro's clear of any bload
+
+My shell does shine with unicode
+
+the challenge's live for all the folk
+
+now everything has broke
