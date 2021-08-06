@@ -54,7 +54,7 @@ One day when the CTF's done
 
 We'll take our points and go
 
-### Verse[2]
+### Verse[1]
 My distro's clear of any bloat
 
 My shell does shine with unicode
@@ -72,7 +72,7 @@ One day when the CTF's done
 
 We'll take our points and go
 
-### Verse[1]
+### Verse[2]
 We have not been two days in bed
 
 Gone through all the internet
