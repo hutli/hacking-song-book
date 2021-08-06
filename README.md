@@ -35,7 +35,7 @@ Køb IDA pro license og sæt dig i gæld
 
 Så starter vi pwntools og håber på shell
 
-## Tellerman
+## The Shellerman
 ### Verse[0]
 There there is a field within IT
 
