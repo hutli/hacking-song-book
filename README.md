@@ -59,7 +59,7 @@ Praise linux; clear of any bloat
 
 The shell does shine in unicode
 
-The race kicks off, I don't look smart
+The race kicks off, the hacking start
 
 My setup falls apart
 
