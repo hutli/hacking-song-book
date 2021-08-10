@@ -83,3 +83,41 @@ Gone through all the internet
 The challenge here we must complete
 
 No option is defeat
+
+### Cores
+Soon we'll deploy the hack
+
+To bring us shell and root and flag
+
+One day when the CTF's done
+
+We'll take our points and go
+
+### Verse[3]
+## First half ideas:
+If zero-days you implement
+
+Attacks clear channel assessment
+
+-------------------------
+
+So if you know what priv-esc is
+
+What happens when you NOP-slide miss
+
+-------------------------
+
+So if you know stacksmashing well
+
+How ropping gives you a root shell
+
+-------------------------
+
+If a good WAF you have deployed
+
+You don't just throw on Metasploit
+
+## SECOND HALF IDEAS:
+Come take a seat [Start up you shell] and join the show
+
+Buy IDA License Pro
