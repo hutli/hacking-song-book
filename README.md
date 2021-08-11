@@ -94,6 +94,24 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[3]
+What happens when you smash a stack?
+
+Can ROP-chains give me a shell back?
+
+The answers may be classified
+
+Come stay with us inside
+
+### Cores
+Soon we'll deploy the hack
+
+To bring us shell and root and flag
+
+One day when the CTF's done
+
+We'll take our points and go
+
+### Verse[-1]
 So if your shell-code run on MIPS
 
 a sexy curve is an ellipse
