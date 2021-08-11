@@ -39,7 +39,7 @@ Så starter vi pwntools og håber på shell
 ### Verse[0]
 There there is a field within IT
 
-The name of the feild: security
+The name of the field: security
 
 No sense or form or ryme they own
 
@@ -94,12 +94,11 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[3]
-## First half ideas:
 So if your shell-code run on MIPS
 
 a sexy curve is an ellipse
 
-NOP-slide right in] and join the show
+NOP-slide right in and join the show
 
 Buy IDA License Pro
 
