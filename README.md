@@ -12,13 +12,21 @@ Terminalen er pimp't up til bravour
 Men når CTF starter er der intet der dur
 
 ### Omkvæd
+[Det syder af fusel og bobler af gær,
+Din lever ta'r skade og øjet får stær.]
+
 Jeg koder af HT når jeg drikker bornshush
 
-Og det kommer igennem når jeg forcer mit push
+Men det kommer igennem når jeg forcer mit push
 
 ### Vers[?]
-Mit pr blev merget og jeg er en helt
+Resten af verden er ikke os nær
 
+Vi bruger det meste af vores tid her
+
+Vi har dog de frækkeste kurver parat
+
+De Elliptiske former skaber nøgler så smart
 
 ### Vers[?]
 Vi puller og pusher til dagen går hen
