@@ -80,9 +80,9 @@ We have not been two days in bed
 
 Gone through all the internet
 
-The challenge here we must complete
+How do I map this memory,
 
-No option is defeat
+with one bit-flip only?
 
 ### Cores
 Soon we'll deploy the hack
@@ -95,6 +95,15 @@ We'll take our points and go
 
 ### Verse[3]
 ## First half ideas:
+So if your shell-code run on MIPS
+
+a sexy curve is an ellipse
+
+NOP-slide right in] and join the show
+
+Buy IDA License Pro
+
+### More ideas:
 If zero-days you implement
 
 Attacks clear channel assessment
@@ -117,7 +126,3 @@ If a good WAF you have deployed
 
 You don't just throw on Metasploit
 
-## SECOND HALF IDEAS:
-Come take a seat [Start up you shell] and join the show
-
-Buy IDA License Pro
