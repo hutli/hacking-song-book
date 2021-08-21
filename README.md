@@ -12,8 +12,9 @@ Terminalen er pimp't up til bravour
 Men når CTF starter er der intet der dur
 
 ### Omkvæd
-[Det syder af fusel og bobler af gær,
-Din lever ta'r skade og øjet får stær.]
+Det smager af husprit og lugter af gær
+
+Din lever ta'r skade og øjet får stær
 
 Jeg koder af HT når jeg drikker bornshush
 
@@ -28,11 +29,14 @@ Vi har dog de frækkeste kurver parat
 
 De Elliptiske former skaber nøgler så smart
 
-### Vers[?]
-Vi puller og pusher til dagen går hen
+### Omkvæd
+Det smager af husprit og lugter af gær
 
-Og i morgen der starter det hele igen
+Din lever ta'r skade og øjet får stær
 
+Jeg koder af HT når jeg drikker bornshush
+
+Men det kommer igennem når jeg forcer mit push
 
 ### Vers[-1]
 Så hvis du får lyst til at pwn'e lidt selv
@@ -42,6 +46,11 @@ Kom blot til os helst når dag går på hæld
 Køb IDA pro license og sæt dig i gæld
 
 Så starter vi pwntools og håber på shell
+
+### Flere ideer:
+Vi puller og pusher til dagen går hen
+
+Og i morgen der starter det hele igen
 
 ## The Shellerman
 ### Verse[0]
@@ -70,9 +79,6 @@ The shell does shine in unicode
 The race kicks off, the hacking start
 
 My setup falls apart
-
-(the challenge's live for all the folk)
-(now everything has broke)
 
 ### Cores
 Soon we'll deploy the hack
@@ -129,6 +135,12 @@ NOP-slide right in and join the show
 Buy IDA License Pro
 
 ### More ideas:
+the challenge's live for all the folk
+
+now everything has broke
+
+-------------------------
+
 If zero-days you implement
 
 Attacks clear channel assessment
