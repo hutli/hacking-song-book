@@ -1,56 +1,5 @@
-# Hacker sangbogen
+# Hacker songbook
 Origin at Bornhack 2020
-
-## Bornhacksagen
-### Vers[0]
-Vi sidder på Bornhack i et LED telt
-
-De største experter i hvert vores felt
-
-Terminalen er pimp't up til bravour
-
-Men når CTF starter er der intet der dur
-
-### Omkvæd
-Det smager af husprit og lugter af gær
-
-Din lever ta'r skade og øjet får stær
-
-Jeg koder af HT når jeg drikker bornshush
-
-Men det kommer igennem når jeg forcer mit push
-
-### Vers[?]
-Resten af verden er ikke os nær
-
-Vi bruger det meste af vores tid her
-
-Vi har dog de frækkeste kurver parat
-
-De Elliptiske former skaber nøgler så smart
-
-### Omkvæd
-Det smager af husprit og lugter af gær
-
-Din lever ta'r skade og øjet får stær
-
-Jeg koder af HT når jeg drikker bornshush
-
-Men det kommer igennem når jeg forcer mit push
-
-### Vers[-1]
-Så hvis du får lyst til at pwn'e lidt selv
-
-Kom blot til os helst når dag går på hæld
-
-Køb IDA pro license og sæt dig i gæld
-
-Så starter vi pwntools og håber på shell
-
-### Flere ideer:
-Vi puller og pusher til dagen går hen
-
-Og i morgen der starter det hele igen
 
 ## The Shellerman
 ### Verse[0]
@@ -163,3 +112,54 @@ If a good WAF you have deployed
 
 You don't just throw on Metasploit
 
+
+## Bornhacksagen
+### Vers[0]
+Vi sidder på Bornhack i et LED telt
+
+De største experter i hvert vores felt
+
+Terminalen er pimp't up til bravour
+
+Men når CTF starter er der intet der dur
+
+### Omkvæd
+Det smager af husprit og lugter af gær
+
+Din lever ta'r skade og øjet får stær
+
+Jeg koder af HT når jeg drikker bornshush
+
+Men det kommer igennem når jeg forcer mit push
+
+### Vers[?]
+Resten af verden er ikke os nær
+
+Vi bruger det meste af vores tid her
+
+Vi har dog de frækkeste kurver parat
+
+De Elliptiske former skaber nøgler så smart
+
+### Omkvæd
+Det smager af husprit og lugter af gær
+
+Din lever ta'r skade og øjet får stær
+
+Jeg koder af HT når jeg drikker bornshush
+
+Men det kommer igennem når jeg forcer mit push
+
+### Vers[-1]
+Så hvis du får lyst til at pwn'e lidt selv
+
+Kom blot til os helst når dag går på hæld
+
+Køb IDA pro license og sæt dig i gæld
+
+Så starter vi pwntools og håber på shell
+
+### Flere ideer:
+Vi puller og pusher til dagen går hen
+
+Og i morgen der starter det hele igen
