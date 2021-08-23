@@ -21,7 +21,7 @@ One day when the CTF's done
 We'll take our points and go
 
 ### Verse[1]
-Praise linux; clear of any bloat
+Hail linux; clear of any bloat
 
 The shell does shine in unicode
 
