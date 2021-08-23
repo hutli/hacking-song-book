@@ -3,7 +3,7 @@ Origin at Bornhack 2020
 
 ## The Shellerman
 ### Verse[0]
-There there is a field within IT
+There is a field within IT
 
 The name of the field: security
 
