@@ -113,6 +113,47 @@ If a good WAF you have deployed
 You don't just throw on Metasploit
 
 
+## Hacker
+Jeg er ikke en scritkiddie, skriver 'ik it PHP
+Jeg kø'r den hardcore stil, digter min exploits in C
+Flag, slapper ikke af, sut på min ny zero-dag
+Ik råd til ida pro, giver dig alli'vel slag
+Jeg bruger neo vim, hacker dig og jeg er in
+Reverser dine bin, knepper dig i standard in
+Faktoriser i linær tid, overtager dine PID
+du har altid vært' hacket for din sikkerhed er invalid
+jeg hacker helt alen', behøver ikke noget team
+de exploits jeg skriver, mit hacker liv det er din dream
+ja det din sidste tim' min exploits - din giloutin'
+skat de taber hovedet når de ser min bitcoin min'
+
+Så hun vil ik' ha en windows user, der ik' abuser
+Al' de tools som man har
+Og hun vil ik' ha en javascripter en starbucks hipster
+En som ik' kan sit shit
+og hun vil ik ha et jakkesæt med pengeclips og slips
+tænder ik på regnskabstips
+og hun vil ik' ha en macintoch det ik' et rigtig os
+kun fri kod' på min bus
+
+Jeg vil ha' en hacker, jeg vil jeg vil ha' en hacker
+Jeg vil ha' en hacker, jeg vil jeg vil ha' en hacker
+...
+
+Hun vil ha en hacker, sigr' jeg til mig selv,
+mens jeg passere' noobs der alle må gå triste hjem
+og de tabte slaget da de k-k-k-kodet det selv
+og det hjalp ik' da copilot k-kodet for dem
+og deres kali tools hjælper ik noget
+når det deres skill set der er gået af mode
+
+
+og hvis de prøvede at fylde hende med pis var hendes svar
+er du for dum til at se forskel på pussy og pissoir
+er du for dum til at se forskel på 
+
+Al' de tools som man har
+
 ## Bornhacksagen
 ### Vers[0]
 Vi sidder på Bornhack i et LED telt
@@ -163,3 +204,20 @@ Så starter vi pwntools og håber på shell
 Vi puller og pusher til dagen går hen
 
 Og i morgen der starter det hele igen
+
+# Debian Buster
+## Vers[0]
+Stille stille stille nu går modem op
+Nattens bugs de er forsvundet
+Den sidste fløj bort i en kaffekop
+Debian stable har vundet
+-
+-
+-
+-
+
+## Omkvæd
+Debian, buster
+Debian, buster
+*Arch users:* Debian buster med de gamle repos
+*Other users:* Debian buster med de stable repos
